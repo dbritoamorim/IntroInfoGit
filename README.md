@@ -24,6 +24,6 @@ https://github.com/nidiodolfini
  - git status para saber a situação
  - git pull para puxar o conteúdo novo, caso houver
  - git push para enviar novos conteúdos
- - code . para iniciar o diretórios e arquivos no vs code
+ - code . para iniciar os diretórios e arquivos no vs code
  - etc
  - teste
