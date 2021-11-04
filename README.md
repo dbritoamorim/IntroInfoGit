@@ -2,6 +2,16 @@
 
  GitHub para exercicios das aulas de Intro a Informatica.
 
+Nidio Dolfini
+https://nidio.dev/
+https://www.linkedin.com/in/nidiodolfini/
+https://github.com/nidiodolfini
+
+
+
+
+
+
  - Repositório remoto & núvem
 
  - pwd para mostrar o local
