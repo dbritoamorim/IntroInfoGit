@@ -24,4 +24,4 @@ Dolfini_Nidio
  - git push para enviar novos conteúdos
  - code . para iniciar os diretórios e arquivos no vs code
  - etc
- - teste
+ - teste2
