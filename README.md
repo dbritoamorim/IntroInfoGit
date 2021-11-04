@@ -1,3 +1,11 @@
+Abre o ReadME e edita como eu editei
+
+Dolfini_Nidio
+
+
+
+
+
 # IntroInfoGit
 
  GitHub para exercicios das aulas de Intro a Informatica.
