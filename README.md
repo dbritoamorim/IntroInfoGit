@@ -1,3 +1,11 @@
+Abre o ReadME e edita como eu editei
+
+Dolfini_Nidio
+
+
+
+
+
 # IntroInfoGit
 
  GitHub para exercicios das aulas de Intro a Informatica.
@@ -26,4 +34,4 @@ https://github.com/nidiodolfini
  - git push para enviar novos conteúdos
  - code . para iniciar os diretórios e arquivos no vs code
  - etc
- - teste
+ - teste2
